@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<TC TCId="" ManualTCId="TestCase1" TCName="TestCase1" UpdatedOn="3/6/2020 6:00:24 AM">
+  <WF>
+    <Task Name="Task1" Desc="Task1" TaskSeq="1" WFId="ed5eb245f2d147759ad0b384b46ceb41" ID="0ec7cb8732044261b3ade475cd330130" UpdateTS="3/6/2020 6:00:05 AM" FileName="Task1.XML" IsSystemTask="false" OnError="Continue" isCommented="false" IsSkipped="false" ParentID="">
+    </Task>
+    <Task Name="Task2" Desc="Task2" TaskSeq="2" WFId="33a6bd3c2e984f39a002e464c5855613" ID="27df4450ce8e4697895fe98493088e55" UpdateTS="3/6/2020 5:57:28 AM" FileName="Task2.XML" IsSystemTask="false" OnError="Continue" isCommented="false" IsSkipped="false" ParentID="">
+    </Task>
+  </WF>
+  <FieldMapping>
+  </FieldMapping>
+</TC>
